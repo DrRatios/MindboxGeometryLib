@@ -1,0 +1,11 @@
+C:\Users\Stortor\RiderProjects\MindboxGeometryLib\MindboxGeometryLib\bin\Debug\net9.0\MindboxGeometryLib.deps.json
+C:\Users\Stortor\RiderProjects\MindboxGeometryLib\MindboxGeometryLib\bin\Debug\net9.0\MindboxGeometryLib.dll
+C:\Users\Stortor\RiderProjects\MindboxGeometryLib\MindboxGeometryLib\bin\Debug\net9.0\MindboxGeometryLib.pdb
+C:\Users\Stortor\RiderProjects\MindboxGeometryLib\MindboxGeometryLib\obj\Debug\net9.0\MindboxGeometryLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stortor\RiderProjects\MindboxGeometryLib\MindboxGeometryLib\obj\Debug\net9.0\MindboxGeometryLib.AssemblyInfoInputs.cache
+C:\Users\Stortor\RiderProjects\MindboxGeometryLib\MindboxGeometryLib\obj\Debug\net9.0\MindboxGeometryLib.AssemblyInfo.cs
+C:\Users\Stortor\RiderProjects\MindboxGeometryLib\MindboxGeometryLib\obj\Debug\net9.0\MindboxGeometryLib.csproj.CoreCompileInputs.cache
+C:\Users\Stortor\RiderProjects\MindboxGeometryLib\MindboxGeometryLib\obj\Debug\net9.0\MindboxGeometryLib.dll
+C:\Users\Stortor\RiderProjects\MindboxGeometryLib\MindboxGeometryLib\obj\Debug\net9.0\refint\MindboxGeometryLib.dll
+C:\Users\Stortor\RiderProjects\MindboxGeometryLib\MindboxGeometryLib\obj\Debug\net9.0\MindboxGeometryLib.pdb
+C:\Users\Stortor\RiderProjects\MindboxGeometryLib\MindboxGeometryLib\obj\Debug\net9.0\ref\MindboxGeometryLib.dll
